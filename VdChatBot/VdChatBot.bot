@@ -1,0 +1,23 @@
+{
+    "name": "VdChatBot",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "9d9c4ea0-9020-11e8-803b-570834ec3861",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:3979/api/messages",
+            "name": "http://localhost:3979/"
+        },
+        {
+            "appId": "",
+            "id": "e2cb2790-90e7-11e8-ac84-b35f5b477f68",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:3979/api/messages",
+            "name": "http://localhost:3979/ (2)"
+        }
+    ]
+}
